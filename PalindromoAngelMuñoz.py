@@ -14,3 +14,4 @@ else:
     print("Su palabra no es un palindromo")
     print(f"Palabra Ingresada: {p}")
     print(f"Palabra al inverso: {p2}")
+    print(😍😍😍😍😍😜)
